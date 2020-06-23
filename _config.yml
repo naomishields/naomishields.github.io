@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 name: Naomi Shields
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
