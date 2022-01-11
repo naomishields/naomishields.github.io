@@ -15,7 +15,7 @@ The map also has three overlays:
 * A *tectonic plates* overlay 
 * A *major earthquakes* overlay
 
-<img src="/assets/final_map.png" alt="Final Map" width = "450" height = "250">
+<img src="/assets/final_map.png" alt="Final Map" width = "700" height = "400">
 
 
 [Github Repo](https://github.com/naomishields/Mapping_Earthquakes)
